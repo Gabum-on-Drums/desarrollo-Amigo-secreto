@@ -1,6 +1,6 @@
 <h1>Juego del Amigo Secreto</h1>
 
-## Estado de proyecto: fase final e implemtacion.
+## Estado de proyecto: Fase final e implementación.
 
 <img width="1512" height="739" alt="visual Amigo Secreto" src="https://github.com/user-attachments/assets/c139102d-2b25-4e33-8fed-fe3333cd5d3d" />
 
